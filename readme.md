@@ -1,5 +1,4 @@
-![NixOS logo]("https://i.ibb.co/wz91KJ5/Frame-3547.png" "Nixos Logo")
-
+![NixOS logo](https://i.ibb.co/wz91KJ5/Frame-3547.png "Nixos Logo")
 
 # NixOS Configuration
 
